@@ -1,2 +1,0 @@
-1|Learn Rust.
-1|Build OS.
